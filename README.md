@@ -1,6 +1,9 @@
-# GTEx Portal MCP Server
+![Logo](logo.png)
+# Unofficial GTEx Portal MCP Server
 
 A comprehensive Model Context Protocol (MCP) server providing access to the GTEx (Genotype-Tissue Expression) Portal API. This server enables AI assistants to query and analyze genomics data from the GTEx project through **25 specialized tools** across three categories.
+
+**Developed by [Augmented Nature](https://augmentednature.ai)**
 
 ## Overview
 
